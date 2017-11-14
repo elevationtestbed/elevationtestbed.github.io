@@ -189,36 +189,42 @@ Price Table
 }
 
 th, td {
-    padding: 5px;
+    padding: 6px;
     padding-left: 60px;
-    text-align: left;
 }
 
 table {
     border-collapse: collapse;
     width: 100%;
+
 }
 
+#caption {
+    font-family: Open Sans, sans-serif;
+    font-weight: 700;
+    color: #4B4B4C;
+    text-align: center;
 
+
+}
 
 .price-table .pricing-head {
     background: #fff;
-    padding: 80px;
-    text-align: center;
-    float : center; 
+    padding: 100px;
 }
-.price-table .pricing-head h4 {
+.price-table .pricing-head h2 p {
     font-size: 22px;
     color: #232c3b;
     margin-top: 0px;
     letter-spacing: 1px;
     border-bottom: 1px solid #232c3b;
     padding-bottom: 20px;
+    text-align: center;
 }
 .pricing-head .amount {
     font-size: 20px;
     font-weight: bold;
-    text-align: right;
+    padding-left: 10px;
 }
 .pricing-head .curency {
     display: inline-block;
@@ -324,7 +330,7 @@ Footer
 }
 .footer .social-links li a {
     color: #fff;
-    font-size: 32px;
+    font-size: 45px;
     line-height: 50px;
     border-radius: 50%;
     text-align: center;
@@ -453,9 +459,7 @@ Responsive media queries
     .contact-form-button{
         width: 40%;
     }
-    .footer .social-links li {
-    margin: 0 5px 25px;
-    }
+    
     .modal-sm {
     width: 300px;
     }
