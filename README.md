@@ -1,7 +1,7 @@
 <img src="img/browQueen.png" />     
 
 
-# Brow Queen    -     C O M I N G     S O O N
+# Brow Queen   
 
 Beauty and Brow care
 
