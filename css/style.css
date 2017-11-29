@@ -39,7 +39,9 @@ Navigation bar
     text-align: center;
 }
 
-
+.nav-item{
+    border-bottom: .1px solid black;
+}
 /***********************************
 Banner
 ************************************/
@@ -53,7 +55,6 @@ Banner
 .header-section{
     padding-bottom: 50px;
 }
-
 
 
 /***********************************
